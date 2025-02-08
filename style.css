@@ -1,0 +1,23 @@
+.w1{
+    border: 10px solid red;
+    padding: 15px;
+    width: 200px;
+    margin: 20px;
+}
+.w2{
+    border: 10px solid greenyellow;
+    padding: 15px;
+    width: 200px;
+    margin: 20px;
+}
+
+.w3{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+}
+.w4{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+}
